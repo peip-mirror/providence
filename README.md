@@ -15,7 +15,7 @@ Requirements
 Installing
 -----------
 
-    composer require kherge/providence
+    composer require --dev kherge/providence
 
 Usage
 -----
